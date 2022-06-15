@@ -1,0 +1,243 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+
+.main-conteiner {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background: #fff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba (0, 0, 0, 0.1);
+}
+
+/* Main content section */
+
+.about-me-profession {
+  font-size: 14;
+  font-weight: 700;
+  color: #000;
+}
+.main-contant-section {
+  padding: 100px 90px;
+}
+.main-content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+/* About me section */
+.about-me-section {
+  margin: 0 0 40px 0;
+}
+.about-me-profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  font-weight: 700;
+  color: #000;
+  margin: 0 0 20px 0;
+}
+.about-me-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000;
+  margin: 0 0 25px 0;
+}
+.about-me-description {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* My project section */
+.my-projec-section {
+  margin: 0 0 50px 0;
+}
+.my-project-list {
+  padding: 0 0 0 15px;
+}
+.my-project-item {
+  color: #000;
+  font-weight: bold;
+}
+.my-projects-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.my-projects-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+.my-projects-bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+}
+
+/* My work experience */
+
+.my-work-experience {
+  margin: 0 0 45px 0;
+}
+.my-work-experience-company {
+  color: #fb603a;
+}
+.my-work-experience-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 0 10px 0;
+}
+.my-work-experience-position-period {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #ababab;
+  margin: 0 0 10px 0;
+}
+.my-work-experience-divider {
+  color: #000;
+}
+.my-work-experience-dutis {
+  padding: 0 0 0 20px;
+}
+.my-work-experience-duty {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+.my-work-experience-company-block {
+  margin: 0 15px 0 0;
+}
+
+/* sidebar section */
+.sidebar-section {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0;
+}
+
+.contacs-section,
+.tech-skills-section {
+  margin: 50px 0 0 40px;
+}
+.soft-skills-section {
+  margin: 50px 0 0 40px;
+}
+
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin: 10px;
+}
+/* Contacs section */
+.contacs-section-tipe {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 5px;
+}
+.contacs-section-link {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 5px;
+}
+
+/* Sech skills sections */
+.tech-skills-list {
+  padding: 0 0 0 15px;
+}
+
+.tech-skills-list-item {
+  color: #fb6d3a;
+}
+
+.tech-skills-list-item-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+
+/* Soft skills sections */
+.soft-skills-list {
+  padding: 0 0 0 15px;
+}
+
+.soft-skills-list-item {
+  color: #fb6d3a;
+}
+
+.soft-skills-list-item-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+
+/* Education */
+.education-content {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 5px;
+}
+.my-education-uny {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+.my-education-speciality {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 20px;
+  color: #000;
+}
+
+.my-education-experience-position-period {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: #ababab;
+  padding-bottom: 20px;
+}
+
+.my-study-divider {
+  color: #000;
+}
